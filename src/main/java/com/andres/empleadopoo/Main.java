@@ -1,5 +1,5 @@
 package com.andres.empleadopoo;
 
-public class Master {
+public class Main {
     public static void main(String[] args) {System.out.println("Hola Mundo");}
 }
